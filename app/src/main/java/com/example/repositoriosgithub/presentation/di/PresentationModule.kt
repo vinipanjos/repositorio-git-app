@@ -1,6 +1,5 @@
 package com.example.repositoriosgithub.presentation.di
 
-import com.example.repositoriosgithub.domain.ListUserRepositoriesUseCase
 import com.example.repositoriosgithub.presentation.MainViewModel
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.core.context.loadKoinModules
