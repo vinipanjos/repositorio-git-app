@@ -5,6 +5,7 @@ Projeto de App Android para apresentar o portfólio de projetos do GitHub de man
 
 1. Fontes de informação 
   - [Guia para Arquitetura do App](https://developer.android.com/jetpack/guide?hl=pt-br)
+  - [Entendendo o Pattern Model View ViewModel MVVM](https://www.devmedia.com.br/entendendo-o-pattern-model-view-viewmodel-mvvm/18411#:~:text=O%20pattern%20MVVM%20%C3%A9%20um,mais%20f%C3%A1cil%20de%20dar%20manuten%C3%A7%C3%A3o.)
   - [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
   - [Activity](https://developer.android.com/jetpack/androidx/releases/activity?hl=pt-br#groovy)
   - [Corrotinas do Kotlin no Android](https://developer.android.com/kotlin/coroutines)
