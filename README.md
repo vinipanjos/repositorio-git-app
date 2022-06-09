@@ -1,6 +1,8 @@
 # repositorio-git-app
 Projeto de App Android para apresentar o portfólio de projetos do GitHub de maneira bonita e simplificada.
 
+##
+
 1. Fontes de informação 
   - [Guia para Arquitetura do App](https://developer.android.com/jetpack/guide?hl=pt-br)
   - [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
