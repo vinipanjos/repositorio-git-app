@@ -1,13 +1,15 @@
 package com.example.repositoriosgithub.data.model
 
-import retrofit2.http.Url
+import com.google.gson.annotations.SerializedName
 
 data class Repo(
     val id: Long,
     val name: String,
     val owner: Owner,
-    val starGazersCount:Long,
+    @SerializedName("stargazers_count")
+    val starGazersCount: Long,
     val language: String,
+    @SerializedName("html_url")
     val htmlUrl: String,
     val description: String
 )

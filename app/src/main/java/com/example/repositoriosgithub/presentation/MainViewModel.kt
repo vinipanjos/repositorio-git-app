@@ -22,7 +22,7 @@ class MainViewModel(
         viewModelScope.launch {
             listUserRepositoriesUseCase(user)
                 .onStart {
-
+                    _repos.postValue(State.Loading)
                 }
                 .catch {
                     _repos.postValue(State.Error(it))
