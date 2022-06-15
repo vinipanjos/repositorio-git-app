@@ -1,5 +1,9 @@
-# repositorio-git-app
+# <img src="https://raw.githubusercontent.com/vinipanjos/repositorio-git-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="jokenpo" width="50"/>        repositorio-git-app
 Projeto de App Android para apresentar o portfólio de projetos do GitHub de maneira bonita e simplificada.
+
+<img src="https://cdn.discordapp.com/attachments/984476455461351424/986730463601238046/WhatsApp_Image_2022-06-15_at_17.29.42.jpeg" alt="jokenpo" width="250"/>
+<img src="https://cdn.discordapp.com/attachments/984476455461351424/986731563318390834/unknown.png" alt="jokenpo" width="250"/>
+
 
 ##
 
