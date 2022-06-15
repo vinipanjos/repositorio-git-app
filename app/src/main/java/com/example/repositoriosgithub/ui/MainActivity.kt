@@ -34,7 +34,8 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
             when(it){
                 is MainViewModel.State.Error -> {
                     createDialog {
-                        setMessage(it.error.message)
+                        setMessage("Não foi possivel obter os dados.")
+//                        setMessage(it.error.message)
                     }.show()
                     dialog.dismiss()
                 }

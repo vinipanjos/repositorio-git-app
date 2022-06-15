@@ -32,7 +32,9 @@ class RepoListAdapter : ListAdapter<Repo, RepoListAdapter.ViewHolder>(DiffCallba
             binding.chipStar.text = item.starGazersCount.toString()
 
             Glide.with(binding.root.context)
-                .load(item.owner.avatarURL).into(binding.ivOwner)
+                .load(item.owner.avatarURL)
+                .circleCrop()
+                .into(binding.ivOwner)
         }
     }
 }
